@@ -26,7 +26,7 @@
         arrayNode.appendChild(node);
     }
     // new object of class to make functions calls
-    call = new algo(n,speed);
+    call = new algo(n,1001-speed);
 
 }
 
